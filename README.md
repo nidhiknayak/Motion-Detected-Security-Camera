@@ -1,0 +1,1 @@
+This Python code captures video from the webcam and detects faces or bodies using OpenCV's Haar cascades, triggering automatic video recording when a face or body is detected. The recording continues for five seconds after detection stops, and pressing 'q' closes the camera and stops the program.
